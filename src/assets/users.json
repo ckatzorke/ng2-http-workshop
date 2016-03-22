@@ -1,0 +1,24 @@
+[
+    {
+        "id": 34,
+        "username": "batman",
+        "roles": [
+            "admin",
+            "user"
+        ]
+    },
+    {
+        "id": 67,
+        "username": "spiderman",
+        "roles": [
+            "user"
+        ]
+    },
+    {
+        "id": 69,
+        "username": "thejockel",
+        "roles": [
+            "superuser"
+        ]
+    }
+]
